@@ -1,138 +1,74 @@
-### 👨🏻‍💻 Helder Abud
+# Olá, eu sou o Helder Abud
 
-**`Desenvolvimento back-end com Java`**
+**Backend Developer** · **Java & Spring Boot** · **APIs REST** · **IA aplicada a sistemas**
 
-Me chamo **Helder Fernandes Abud**, tenho 38 anos e sou natural de **Planaltina (DF)**, cidade satélite de Brasília. Concluí o ensino médio com curso técnico em informática e, atualmente, curso **Análise e Desenvolvimento de Sistemas** na **Cruzeiro do Sul**.
+[LinkedIn](https://www.linkedin.com/in/helder-fernandes-abud-0b0233238/) · [E-mail](mailto:tuga.abud@gmail.com) · [GitHub](https://github.com/HelderAbud)
 
-Sou estudante da área de tecnologia, com foco em **desenvolvimento back-end com Java**. Venho estudando **lógica de programação**, **orientação a objetos**, **APIs REST**, **banco de dados SQL**, **Git/GitHub** e **boas práticas de engenharia de software**.
-
-Também tenho explorado o uso de **inteligência artificial aplicada ao desenvolvimento**, utilizando ferramentas como **ChatGPT, DeepSeek, Cursor, Claude Code e Gemini** para apoio nos estudos, entendimento de código, produtividade e aprendizado de boas práticas.
-
-Busco evoluir por meio de **projetos práticos** e **aprendizado contínuo**, com interesse em desenvolver soluções **organizadas, escaláveis e bem estruturadas**. Atualmente, procuro uma **oportunidade de estágio em Engenharia de Software com foco em back-end Java e IA** para aplicar meus conhecimentos, aprender com profissionais experientes e crescer na área.
 
 ---
 
-### 🌐 Onde me encontrar
+## Sobre
 
-<p align="left">
-  <a href="https://github.com/HelderAbud">
-    <img 
-      alt="Me siga no GitHub" 
-      title="Me siga no GitHub" 
-      src="https://img.shields.io/github/followers/HelderAbud?label=Seguidores&style=for-the-badge&logo=github&labelColor=1155ba&color=236ad3&logoColor=white"
-    />
-  </a>
-</p>
+Sou **Helder Fernandes Abud**, natural de **Planaltina (DF)**. Concluí o ensino médio com curso técnico em informática e, atualmente, curso **Análise e Desenvolvimento de Sistemas** na Cruzeiro do Sul.
+
+Sou estudante com foco em **desenvolvimento back-end com Java**: lógica de programação, orientação a objetos, APIs REST, SQL, Git/GitHub e boas práticas de engenharia de software.
+
+Exploro **inteligência artificial aplicada ao desenvolvimento** (ChatGPT, DeepSeek, Cursor, Claude, Gemini) para estudo, leitura de código, produtividade e aprendizagem — sempre com revisão e entendimento do que entrego.
+
+Busco evoluir com **projetos práticos** e aprendizagem contínua, com interesse em soluções organizadas e bem estruturadas. Procuro **estágio em Engenharia de Software** com foco em back-end Java e IA, para aprender com quem já está na área e contribuir com o que já sei fazer.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## Stack principal
 
-<!-- Coloque aqui apenas o que você realmente conhece/estuda hoje -->
-
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Spring"
-    title="Spring (caso já esteja estudando)" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL"
-    title="PostgreSQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL"
-    title="MySQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="GitHub" 
-    title="GitHub"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
-
-<br/>
-<br/>
-
-<!-- Se você também já conhece o básico de front-end, pode manter estes abaixo.
-     Se não quiser, é só apagar este bloco inteiro. -->
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<br/>
-<br/>
+| Área | Tecnologias |
+|------|---------------|
+| Linguagem | Java |
+| Backend | Spring Boot, Spring Security, Spring Data |
+| API | REST, OpenAPI / Swagger |
+| Dados | PostgreSQL, MySQL |
+| Ferramentas | Git, Maven, Docker |
 
 ---
 
-### 📊 Estatísticas
+## IA no fluxo de desenvolvimento
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=HelderAbud&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-</p>
+Uso IA como **ferramenta de produtividade e aprendizagem** (não substitui revisão nem testes):
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+- Refatoração e exploração de código com **Cursor**
+- Dúvidas de arquitetura e boas práticas com **ChatGPT**
+- Análise de código com **DeepSeek**
+- Documentação e revisão com **Claude**
 
-</p>
+Objetivo: ganhar velocidade mantendo **qualidade e compreensão** do que vai para produção.
+
+---
+
+## Projetos em destaque
+
+https://github.com/HelderAbud?tab=repositories (**Customize pins**).
+
+| Projeto | Descrição | Link |
+|---------|-----------|------|
+| Gestão financeira | Receitas, despesas, metas, JWT, Next.js + Spring | [Gestao-Financeira](https://github.com/HelderAbud/Gestao-Financeira) |
+| E-commerce (camisetas) | API Spring, JWT, Flyway — roadmap carrinho e pedidos | [Tshirt-Store](https://github.com/HelderAbud/Tshirt-Store) |
+| Monitoramento escolar | FaceLogAI — contexto escolar, API Spring | [Camera-Escolar](https://github.com/HelderAbud/Camera-Escolar) |
+
+
+---
+
+## Foco em 2026
+
+- Fortalecer **engenharia de software** (testes, documentação, deploy).
+- Integrar **IA em APIs** (automação, assistentes, análise de texto) — 
+
+---
+
+## Contato
+
+| | |
+|--|--|
+| **LinkedIn** | https://www.linkedin.com/in/helder-fernandes-abud-0b0233238/ |
+| **E-mail** | tuga.abud@gmail.com |
+| **Localização** | Brasília (DF) · remoto
 
