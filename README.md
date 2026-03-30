@@ -46,7 +46,7 @@ Objetivo: ganhar velocidade mantendo **qualidade e compreensão** do que vai par
 
 ## Projetos em destaque
 
-https://github.com/HelderAbud?tab=repositories (**Customize pins**).
+https://github.com/HelderAbud?tab=repositories 
 
 | Projeto | Descrição | Link |
 |---------|-----------|------|
