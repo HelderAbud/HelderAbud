@@ -61,7 +61,7 @@ https://github.com/HelderAbud?tab=repositories
 
 - Fortalecer **engenharia de software** (testes, documentação, deploy).
 - Integrar **IA em APIs** (automação, assistentes, análise de texto) — 
-
+- Arquitetura de Software
 ---
 
 ## Contato
