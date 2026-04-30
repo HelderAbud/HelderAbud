@@ -1,74 +1,51 @@
-# Olá, eu sou o Helder Abud
+Olá, eu sou o Helder Abud
+Desenvolvedor Full Stack · Java/Spring Boot · React · APIs REST · IA aplicada a sistemas comerciais
 
-**Backend Developer** · **Java & Spring Boot** · **APIs REST** · **IA aplicada a sistemas**
+LinkedIn · E-mail · GitHub
 
-[LinkedIn](https://www.linkedin.com/in/helder-fernandes-abud-0b0233238/) · [E-mail](mailto:tuga.abud@gmail.com) · [GitHub](https://github.com/HelderAbud)
+Sobre
+Sou Helder Fernandes Abud, de Planaltina (DF), com formação técnica em informática e cursando Análise e Desenvolvimento de Sistemas.
 
+Atuei por 15 anos como representante comercial, experiência que levo para tecnologia com foco em sistemas orientados à operação real: vendas, estoque, fiscal e indicadores.
 
----
+Hoje atuo como Desenvolvedor Full Stack, construindo soluções com Java/Spring no backend e React no frontend, com foco em APIs REST seguras, qualidade de código e evolução contínua.
 
-## Sobre
+Projeto principal — LojApp (Loja Sistema)
+Plataforma de gestão comercial com automação fiscal: SPA React + API Spring Boot para loja física, cobrindo produtos, estoque, vendas, importação de NFe (XML) e dashboard com KPIs e curva ABC.
 
-Sou **Helder Fernandes Abud**, natural de **Planaltina (DF)**. Concluí o ensino médio com curso técnico em informática e, atualmente, curso **Análise e Desenvolvimento de Sistemas** na Cruzeiro do Sul.
+Stack principal: Java 21, Spring Boot 3, Spring Security (JWT), JPA, Flyway, PostgreSQL, OpenAPI/Swagger, Actuator, React, TypeScript, TanStack Query.
 
-Sou estudante com foco em **desenvolvimento back-end com Java**: lógica de programação, orientação a objetos, APIs REST, SQL, Git/GitHub e boas práticas de engenharia de software.
+Repositório: Loja Sistema / LojApp
 
-Exploro **inteligência artificial aplicada ao desenvolvimento** (ChatGPT, DeepSeek, Cursor, Claude, Gemini) para estudo, leitura de código, produtividade e aprendizagem — sempre com revisão e entendimento do que entrego.
+IA aplicada a arquitetura e produto
+Estudo e aplico orquestração de agentes LLM em cenários de software real, com foco em:
 
-Busco evoluir com **projetos práticos** e aprendizagem contínua, com interesse em soluções organizadas e bem estruturadas. Procuro **estágio em Engenharia de Software** com foco em back-end Java e IA, para aprender com quem já está na área e contribuir com o que já sei fazer.
+fluxos multi-step com tomada de decisão;
+tool use para consumo de APIs REST e consulta de dados;
+memória de contexto de sessão;
+pipelines com observabilidade e controle de custo.
+Interesses técnicos atuais: ReAct, Chain-of-Thought, LangChain4j (ecossistema Java), Spring AI, LangGraph, CrewAI e integração direta com APIs de modelos.
 
----
+Projetos em destaque
+LojApp (projeto principal)
+Gestão comercial e fiscal com backend Java/Spring e frontend React.
 
-## Stack principal
+Agente Fiscal NFe (em andamento)
+Pipeline que lê XML de NFe, identifica anomalias e sugere ações operacionais, com integração planejada via API REST do LojApp e contexto por sessão.
 
-| Área | Tecnologias |
-|------|---------------|
-| Linguagem | Java |
-| Backend | Spring Boot, Spring Security, Spring Data |
-| API | REST, OpenAPI / Swagger |
-| Dados | PostgreSQL, MySQL |
-| Ferramentas | Git, Maven, Docker |
+Gestão Financeira
+Controle de receitas, despesas e metas com autenticação JWT.
 
----
+FaceLogAI (contexto escolar)
+Projeto de monitoramento com foco em backend e integração de funcionalidades inteligentes.
 
-## IA no fluxo de desenvolvimento
+Ver todos os repositórios
 
-Uso IA como **ferramenta de produtividade e aprendizagem** (não substitui revisão nem testes):
-
-- Refatoração e exploração de código com **Cursor**
-- Dúvidas de arquitetura e boas práticas com **ChatGPT**
-- Análise de código com **DeepSeek**
-- Documentação e revisão com **Claude**
-
-Objetivo: ganhar velocidade mantendo **qualidade e compreensão** do que vai para produção.
-
----
-
-## Projetos em destaque
-
-https://github.com/HelderAbud?tab=repositories 
-
-| Projeto | Descrição | Link |
-|---------|-----------|------|
-| Gestão financeira | Receitas, despesas, metas, JWT, Next.js + Spring | [Gestao-Financeira](https://github.com/HelderAbud/Gestao-Financeira) |
-| E-commerce (camisetas) | API Spring, JWT, Flyway — roadmap carrinho e pedidos | [Tshirt-Store](https://github.com/HelderAbud/Tshirt-Store) |
-| Monitoramento escolar | FaceLogAI — contexto escolar, API Spring | [Camera-Escolar](https://github.com/HelderAbud/Camera-Escolar) |
-
-
----
-
-## Foco em 2026
-
-- Fortalecer **engenharia de software** (testes, documentação, deploy).
-- Integrar **IA em APIs** (automação, assistentes, análise de texto) — 
-- Arquitetura de Software
----
-
-## Contato
-
-| | |
-|--|--|
-| **LinkedIn** | https://www.linkedin.com/in/helder-fernandes-abud-0b0233238/ |
-| **E-mail** | tuga.abud@gmail.com |
-| **Localização** | Brasília (DF) · remoto
-
+Foco em 2026
+Fortalecer engenharia de software (testes, documentação, CI/CD e deploy).
+Evoluir o LojApp como referência de domínio comercial e fiscal.
+Integrar orquestração de agentes no LojApp — agente fiscal para análise de NFe, com tool use sobre API REST e memória de contexto de sessão.
+Contato
+LinkedIn: helder-fernandes-abud-0b0233238
+E-mail: tuga.abud@gmail.com
+Localização: Brasília (DF) · remoto
